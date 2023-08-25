@@ -1,0 +1,14 @@
+--atlas -f rgba8888 -z auto
+
+border_small.png
+border_bottom.png
+border_bottom_left.png
+border_bottom_right.png
+border_top_left.png
+border_top_right.png
+border_top.png
+border_left.png
+border_right.png
+logo.png
+speak.png
+mic.png
